@@ -1,2 +1,2 @@
 # Jarvis-Stefanellis-
-An AI capable of storing knowledge, data, and personal information.
+This project aims to develop a fully personalized AI system for individual users. Built in Python, the system will securely store knowledge, user data, and personal preferences. It will leverage machine learning and natural language processing techniques to continuously learn from user interactions, adapting its responses to better reflect the user’s behavior, communication style, and decision-making patterns over time.
