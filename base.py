@@ -1,10 +1,10 @@
-class Assistente:
-    def __init__(self, nome, versao):
-        self.nome = nome
-        self.versao = versao
+class Assistant:
+    def __init__(self, name, version):
+        self.name = name
+        self._version = version
 
-    def apresentar(self):
-        print(f"Olá, eu sou {self.nome}, versão {self.versao}.")
+    def introduce(self):
+        print(f"Hello! I am {self.name}, version {self._version}.")
 
     def __str__(self):
-        return f"{self.nome} v{self.versao}"
+        return f"{self.name} v{self._version}"
