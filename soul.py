@@ -29,6 +29,3 @@ class Soul:
 
 soul = Soul("User", "formal")
 soul.greet()
-soul.set_style("casual")
-soul.greet()
-soul.set_style("Happy")  # Invalid style for testing
